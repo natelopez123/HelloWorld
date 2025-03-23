@@ -1,7 +1,7 @@
-public class CharacterDetailes
+public class CharacterDetailes{
   public static void main(String[] args) {
-  
-    String firsName;
+    
+    String firstName;
     String lastName;
     String streetAddress;
     String city;
@@ -15,7 +15,7 @@ public class CharacterDetailes
     
     System.out.println("First Name: "  + firstName);
     System.out.println("Last Name:  " + lastName);
-    System.out.println("Street Address:  " + streeAddress);
+    System.out.println("Street Address:  " + streetAddress);
     System.out.println("City:  " + city);
     System.out.println("Zip code:  " + zipCode);
     }
